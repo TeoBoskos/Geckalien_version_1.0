@@ -24,6 +24,6 @@ better player model, because I tried making one in photoshop...it did not end we
 If you happen to stumble upon any bugs in my game, please know that I am open to any kind of criticism that is
 going to help me improve my skills. Thank you.
 
-# P.S.
+# PS
 
 The background image isn't mine, I got it from Google. I checked it and it's copyright free.
